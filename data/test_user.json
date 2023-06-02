@@ -1,0 +1,8 @@
+{
+  "test_user": {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "age": 30,
+    "is_active": true
+  }
+}

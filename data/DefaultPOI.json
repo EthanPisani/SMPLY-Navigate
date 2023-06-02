@@ -1,0 +1,1010 @@
+{
+  "pointsOfInterest" : [
+    {
+      "name": "Stairwell beside Mechanical Room",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 498,
+      "yCoord": 942,
+      "isDefault" : true
+    },
+    {
+      "name": "Stairwell 2",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 974,
+      "yCoord": 1394,
+      "isDefault" : true
+    },
+    {
+      "name": "Stairwell 3",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 2316,
+      "yCoord": 1396,
+      "isDefault" : true
+    },
+    {
+      "name": "Washroom Floor 1",
+      "category": "washroom",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "102A",
+      "xCoord": 2338,
+      "yCoord": 1208,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit 1",
+      "category": "exit",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 2488,
+      "yCoord": 1618,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit 2",
+      "category": "exit",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 1026,
+      "yCoord": 1636,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit 3",
+      "category": "exit",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 504,
+      "yCoord": 1478,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit 4",
+      "category": "exit",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 702,
+      "yCoord": 756,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit 5",
+      "category": "exit",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 1014,
+      "yCoord": 752,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit 6",
+      "category": "exit",
+      "floor": 1,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 2382,
+      "yCoord": 730,
+      "isDefault" : true
+    },
+    {
+      "name": "Male Washroom",
+      "category": "washroom",
+      "floor": 2,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "214",
+      "xCoord": 1480,
+      "yCoord": 1248,
+      "isDefault" : true
+    },
+    {
+      "name": "Female Washroom",
+      "category": "washroom",
+      "floor": 2,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "212",
+      "xCoord": 1570,
+      "yCoord": 1276,
+      "isDefault" : true
+    },
+    {
+      "name": "Stairs 1 Second Floor",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 2358,
+      "yCoord": 1226,
+      "isDefault" : true
+    },
+    {
+      "name": "Stairs 2 Second Floor",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 1034,
+      "yCoord": 1436,
+      "isDefault" : true
+    },
+    {
+      "name": "Stairs 3 Second Floor",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "AdvancedFacilityForAvianResearch",
+      "roomNumber": "0",
+      "xCoord": 2640,
+      "yCoord": 964,
+      "isDefault" : true
+    },
+
+
+    {
+      "name": "Allumni Hall Elevator",
+      "category": "elevator",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1302,
+      "yCoord": 524,
+      "isDefault" : true
+    },
+
+    {
+      "name": "North West Stairs",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 846,
+      "yCoord": 562,
+      "isDefault" : true
+    },
+
+    {
+      "name": "North East Stairs",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1798,
+      "yCoord": 348,
+      "isDefault" : true
+    },
+
+    {
+      "name": "South West Stairs",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 843,
+      "yCoord": 1592,
+      "isDefault" : true
+    },
+
+    {
+      "name": "South East Stairs",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1774,
+      "yCoord": 1854,
+      "isDefault" : true
+    },
+    {
+      "name": "Allumni Hall Male Washroom 1",
+      "category": "washroom",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1812,
+      "yCoord": 1558,
+      "isDefault" : true
+    },
+    {
+      "name": "Allumni Hall Female Washroom 1",
+      "category": "washroom",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1862,
+      "yCoord": 1448,
+      "isDefault" : true
+    },
+
+    {
+      "name": "Exit to Thames",
+      "category": "exit",
+      "floor": 1,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 2070,
+      "yCoord": 1462,
+      "isDefault" : true
+    },
+
+    {
+      "name": "Allumni Hall Elevator 2",
+      "category": "elevator",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1302,
+      "yCoord": 524,
+      "isDefault" : true
+    },
+
+    {
+      "name": "North West Stairs 2",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 846,
+      "yCoord": 562,
+      "isDefault" : true
+    },
+
+    {
+      "name": "North East Stairs 2",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1798,
+      "yCoord": 348,
+      "isDefault" : true
+    },
+
+    {
+      "name": "South West Stairs 2",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 843,
+      "yCoord": 1592,
+      "isDefault" : true
+    },
+
+    {
+      "name": "South East Stairs 2",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1774,
+      "yCoord": 1854,
+      "isDefault" : true
+    },
+    {
+      "name": "Allumni Hall Male Washroom 2",
+      "category": "washroom",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1542,
+      "yCoord": 698,
+      "isDefault" : true
+    },
+    {
+      "name": "Allumni Hall Female Washroom 2",
+      "category": "washroom",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1562,
+      "yCoord": 1474,
+      "isDefault" : true
+    },
+
+    {
+      "name": "Main Entrance",
+      "category": "entrance",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1994,
+      "yCoord": 1088,
+      "isDefault" : true
+    },
+
+    {
+      "name": "North Main Exit",
+      "category": "exit",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1598,
+      "yCoord": 328,
+      "isDefault" : true
+    },
+
+    {
+      "name": "South Main Exit",
+      "category": "exit",
+      "floor": 2,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1674,
+      "yCoord": 1904,
+      "isDefault" : true
+    },
+
+    {
+      "name": "Allumni Hall Elevator 3",
+      "category": "elevator",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1302,
+      "yCoord": 524,
+      "isDefault" : true
+    },
+
+    {
+      "name": "North West Stairs 3",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 846,
+      "yCoord": 562,
+      "isDefault" : true
+    },
+
+    {
+      "name": "North East Stairs 3",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1798,
+      "yCoord": 348,
+      "isDefault" : true
+    },
+
+    {
+      "name": "South West Stairs 3",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 843,
+      "yCoord": 1592,
+      "isDefault" : true
+    },
+
+    {
+      "name": "South East Stairs 3",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1774,
+      "yCoord": 1854,
+      "isDefault" : true
+    },
+    {
+      "name": "Top Exit 6",
+      "category": "exit",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1040,
+      "yCoord": 484,
+      "isDefault" : true
+    },
+    {
+      "name": "Top Exit 7",
+      "category": "exit",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1208,
+      "yCoord": 452,
+      "isDefault" : true
+    },
+    {
+      "name": "Top Exit 8",
+      "category": "exit",
+      "floor": 3,
+      "building": "AlumniHall",
+      "roomNumber": "0",
+      "xCoord": 1278,
+      "yCoord": 398,
+      "isDefault" : true
+    },
+    {
+      "name": "Washroom4CM1",
+      "category": "washroom",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "4C",
+      "xCoord": 1458,
+      "yCoord": 902,
+      "isDefault" : true
+    },
+    {
+      "name": "ElevatorM1a",
+      "category": "elevator",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1964,
+      "yCoord": 966,
+      "isDefault" : true
+    },
+    {
+      "name": "ElevatorM1b",
+      "category": "elevator",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2770,
+      "yCoord": 1342,
+      "isDefault" : true
+    },
+    {
+      "name": "EntranceM2",
+      "category": "entrance",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1790,
+      "yCoord": 1300,
+      "isDefault" : true
+    },
+    {
+      "name": "Washroom100M2",
+      "category": "washroom",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "100",
+      "xCoord": 1472,
+      "yCoord": 1052,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit1M2",
+      "category": "exit",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 296,
+      "yCoord": 1530,
+      "isDefault" : true
+    },
+    {
+      "name": "Washroom139M2",
+      "category": "washroom",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "139",
+      "xCoord": 2852,
+      "yCoord": 1404,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit2M2",
+      "category": "exit",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 832,
+      "yCoord": 1472,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit3M2",
+      "category": "exit",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 3190,
+      "yCoord": 1576,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit5M2",
+      "category": "exit",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2156,
+      "yCoord": 1144,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit4M2",
+      "category": "exit",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2712,
+      "yCoord": 1444,
+      "isDefault" : true
+    },
+    {
+      "name": "Exit6M2",
+      "category": "exit",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1966,
+      "yCoord": 1222,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM1a",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 332,
+      "yCoord": 1504,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM1b",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 776,
+      "yCoord": 1362,
+      "isDefault" : true
+    },
+    {
+      "name": "ExitM1a",
+      "category": "exit",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1152,
+      "yCoord": 728,
+      "isDefault" : true
+    },
+    {
+      "name": "ExitM1b",
+      "category": "exit",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 968,
+      "yCoord": 770,
+      "isDefault" : true
+    },
+    {
+      "name": "ExitM1c",
+      "category": "exit",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1450,
+      "yCoord": 518,
+      "isDefault" : true
+    },
+    {
+      "name": "ExitM1d",
+      "category": "exit",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1816,
+      "yCoord": 484,
+      "isDefault" : true
+    },
+    {
+      "name": "ExitM1e",
+      "category": "exit",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2120,
+      "yCoord": 502,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM1c",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2126,
+      "yCoord": 1022,
+      "isDefault" : true
+    },
+    {
+      "name": "GradClub",
+      "category": "restaurant",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1712,
+      "yCoord": 640,
+      "isDefault" : true
+    },
+    {
+      "name": "C15M1",
+      "category": "classroom",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "17",
+      "xCoord": 930,
+      "yCoord": 978,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM1d",
+      "category": "stairwell",
+      "floor": 1,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 3118,
+      "yCoord": 1540,
+      "isDefault" : true
+    },
+    {
+      "name": "MC105B",
+      "category": "classroom",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "105B",
+      "xCoord": 368,
+      "yCoord": 1200,
+      "isDefault" : true
+    },
+    {
+      "name": "MC110",
+      "category": "classroom",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "110",
+      "xCoord": 1730,
+      "yCoord": 604,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM2a",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2116,
+      "yCoord": 1044,
+      "isDefault" : true
+    },
+    {
+      "name": "ElevatorM2a",
+      "category": "elevator",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1960,
+      "yCoord": 962,
+      "isDefault" : true
+    },
+    {
+      "name": "ElevatorM2b",
+      "category": "elevator",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2760,
+      "yCoord": 1340,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM2b",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 736,
+      "yCoord": 1362,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM2c",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 3110,
+      "yCoord": 1526,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM2d",
+      "category": "stairwell",
+      "floor": 2,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 264,
+      "yCoord": 1468,
+      "isDefault" : true
+    },
+    {
+      "name": "MC230",
+      "category": "CsLab",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "230",
+      "xCoord": 268,
+      "yCoord": 1230,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM3a",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 742,
+      "yCoord": 1368,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM3b",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2100,
+      "yCoord": 1074,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM3c",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 3104,
+      "yCoord": 1516,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM3d",
+      "category": "stairwell",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 290,
+      "yCoord": 1488,
+      "isDefault" : true
+    },
+    {
+      "name": "ElevatorM3a",
+      "category": "elevator",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1944,
+      "yCoord": 948,
+      "isDefault" : true
+    },
+    {
+      "name": "ElevatorM3b",
+      "category": "elevator",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2746,
+      "yCoord": 1302,
+      "isDefault" : true
+    },
+    {
+      "name": "MC220",
+      "category": "CsCollaborativeRoom",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "220",
+      "xCoord": 606,
+      "yCoord": 1388,
+      "isDefault" : true
+    },
+    {
+      "name": "MC239",
+      "category": "CsCollaborativeRoom",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "239",
+      "xCoord": 626,
+      "yCoord": 1196,
+      "isDefault" : true
+    },
+    {
+      "name": "MC240",
+      "category": "CsLab",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "240",
+      "xCoord": 838,
+      "yCoord": 990,
+      "isDefault" : true
+    },
+    {
+      "name": "MC235",
+      "category": "CsLab",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "235",
+      "xCoord": 430,
+      "yCoord": 1162,
+      "isDefault" : true
+    },
+    {
+      "name": "WashroomM3a",
+      "category": "washroom",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "205",
+      "xCoord": 1440,
+      "yCoord": 1046,
+      "isDefault" : true
+    },
+    {
+      "name": "WashroomM3b",
+      "category": "washroom",
+      "floor": 3,
+      "building": "MiddlesexCollege",
+      "roomNumber": "278",
+      "xCoord": 2826,
+      "yCoord": 1410,
+      "isDefault" : true
+    },
+    {
+      "name": "StairwellM4a",
+      "category": "stairwell",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 244,
+      "yCoord": 1492,
+      "isDefault" : true
+    },{
+      "name": "StairwellM4b",
+      "category": "stairwell",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 738,
+      "yCoord": 1394,
+      "isDefault" : true
+    },{
+      "name": "StairwellM4c",
+      "category": "stairwell",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2096,
+      "yCoord": 1042,
+      "isDefault" : true
+    },{
+      "name": "StairwellM4d",
+      "category": "stairwell",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 3088,
+      "yCoord": 1514,
+      "isDefault" : true
+    },{
+      "name": "ElevatorM4a",
+      "category": "elevator",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 1938,
+      "yCoord": 932,
+      "isDefault" : true
+    },{
+      "name": "ElevatorM4b",
+      "category": "elevator",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2752,
+      "yCoord": 1314,
+      "isDefault" : true
+    },{
+      "name": "MC342",
+      "category": "CsLab",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "342",
+      "xCoord": 1252,
+      "yCoord": 750,
+      "isDefault" : true
+    },{
+      "name": "MC325",
+      "category": "CsCollaborativeRoom",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "325",
+      "xCoord": 524,
+      "yCoord": 1490,
+      "isDefault" : true
+    },{
+      "name": "MC316",
+      "category": "classroom",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "316",
+      "xCoord": 1048,
+      "yCoord": 1176,
+      "isDefault" : true
+    },{
+      "name": "MC320",
+      "category": "classroom",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "320",
+      "xCoord": 884,
+      "yCoord": 1298,
+      "isDefault" : true
+    },{
+      "name": "WashroomM4a",
+      "category": "washroom",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "388",
+      "xCoord": 2202,
+      "yCoord": 1058,
+      "isDefault" : true
+    },{
+      "name": "WashroomM4b",
+      "category": "washroom",
+      "floor": 4,
+      "building": "MiddlesexCollege",
+      "roomNumber": "311",
+      "xCoord": 1442,
+      "yCoord": 1056,
+      "isDefault" : true
+    },{
+      "name": "StairwellM5a",
+      "category": "stairwell",
+      "floor": 5,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2098,
+      "yCoord": 1046,
+      "isDefault" : true
+    },{
+      "name": "StairwellM5b",
+      "category": "stairwell",
+      "floor": 5,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 3076,
+      "yCoord": 1528,
+      "isDefault" : true
+    },{
+      "name": "ElevatorM5a",
+      "category": "elevator",
+      "floor": 5,
+      "building": "MiddlesexCollege",
+      "roomNumber": "0",
+      "xCoord": 2744,
+      "yCoord": 1332,
+      "isDefault" : true
+    }
+  ]
+}
