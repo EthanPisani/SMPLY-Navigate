@@ -1,4 +1,4 @@
-SMPLY Navigate
+### SMPLY Navigate
 
 Overview:
 
